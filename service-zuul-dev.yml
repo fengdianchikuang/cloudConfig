@@ -6,4 +6,4 @@ zuul:
       serviceid: item-app
     order-service: #  取的名字尽量和业务联系起来
       path: /order-service/**
-      serviceid: microservice
+      serviceid: order-app
